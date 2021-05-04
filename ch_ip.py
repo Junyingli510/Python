@@ -352,7 +352,7 @@ def pSleep(n):
         print(i)
         sleep(1)
 
-# every 3 min vist url
+# every 3 min visit url
 # every 30~45 min change agent and ip address
 def main():
     unit = 60
