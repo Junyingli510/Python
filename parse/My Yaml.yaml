@@ -1,0 +1,24 @@
+DEFAULT:
+  media_dir: 'C:\Users\beach\Desktop\media'
+
+Folder Names to Include in Scan:
+  RECURSIVE=YES:
+    type_dir: ['movies', 'tvshows']
+
+  RECURSIVE=NO:
+    type_dir: ['home movies']
+
+Label tags to move and create folder based on tag name:
+  tags: ['144p', '240p', '360p', '480p', '720p', 'HD']
+
+Tags to be removed from folder/files:
+  tags: ['-(A)', '240p', '360p', '480p', '720p', 'HD', 'h.265', 'mkv', 'upload']
+
+Suffix Deletion remove the last instance of tag and everything after last instance of:
+  tags: ['-', 'HD', '.', '-', '(']
+
+Prefix Deletion remove first instance of tag and everything before it:
+  tags: ['SD', 'HD', '.', '-', ')']
+
+Directory to output folder:
+  output_dir: 'C:\Users\beach\Desktop\A different folder than the media_dir'

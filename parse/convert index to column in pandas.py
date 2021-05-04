@@ -1,0 +1,1 @@
+df1.reset_index(level=0, inplace=True)
