@@ -70,8 +70,8 @@ class Driver:
 
     def find_by_xpath(self, xpath): 
         return WebDriverWait(self.driver, 10).until(
-                        EC.presence_of_element_located(
-                            (By.XPATH, xpath)))
+             EC.presence_of_element_located(
+                 (By.XPATH, xpath)))
 
     def find_by_class(self, class_name): 
         return WebDriverWait(self.driver, 10).until(
