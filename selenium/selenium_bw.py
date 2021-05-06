@@ -65,8 +65,8 @@ class Driver:
 
     def find_by_id(self, id): 
         return WebDriverWait(self.driver, 10).until(
-                        EC.presence_of_element_located(
-                            (By.ID, id)))
+             EC.presence_of_element_located(
+                 (By.ID, id)))
 
     def find_by_xpath(self, xpath): 
         return WebDriverWait(self.driver, 10).until(
