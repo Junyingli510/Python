@@ -80,8 +80,8 @@ class Driver:
 
     def find_by_selector(self, class_name): 
         return WebDriverWait(self.driver, 10).until(
-                        EC.presence_of_element_located(
-                            (By.CSS_SELECTOR, class_name)))
+             EC.presence_of_element_located(
+                 (By.CSS_SELECTOR, class_name)))
 
     def find_by_tag(self, tag): 
         return WebDriverWait(self.driver, 10).until(
