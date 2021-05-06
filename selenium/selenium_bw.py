@@ -75,8 +75,8 @@ class Driver:
 
     def find_by_class(self, class_name): 
         return WebDriverWait(self.driver, 10).until(
-                        EC.presence_of_element_located(
-                            (By.CLASS_NAME, class_name)))
+             EC.presence_of_element_located(
+                 (By.CLASS_NAME, class_name)))
 
     def find_by_selector(self, class_name): 
         return WebDriverWait(self.driver, 10).until(
