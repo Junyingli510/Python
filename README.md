@@ -7,6 +7,6 @@ I am using this codes for working.
 ## Save cookie and upload cookie with saved cookie
 ## Main selenium structrure
 ## Scroll down
-## String split, 
+## String split, convert
 ... working ...
 __ tao @ 2021 05 01 __
