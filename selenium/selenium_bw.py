@@ -12,6 +12,7 @@ from selenium.webdriver.common.keys import Keys
 
 # time lib
 from time import sleep
+import util
 
 class Driver: 
     def __init__(self):
@@ -128,7 +129,10 @@ class Driver:
 
     def execute_script(self, str):
         self.driver.execute_script(str)
-
+        
+    def full_screenshot(self):
+        util.fullpage_screenshot(self.driver, "test.png")
+        
     def click(self, btn):
         self.driver.execute_script("arguments[0].click();", btn)
 
