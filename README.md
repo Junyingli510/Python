@@ -9,5 +9,6 @@ I am using this codes for working.
 ## String split, convert
 ## select tag in iframe
 ## Ip rolling
+## solve capcha
 ... working ...
 __ tao @ 2021 05 01 __
