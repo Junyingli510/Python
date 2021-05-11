@@ -57,7 +57,7 @@ class Driver:
     def get_fra(self, name):  
         while True:
             try:
-                self.driver.switch_to_frame(name)
+                self.driver.switch_to.frame(name)
                 break
             except:
                 self.get_default()
