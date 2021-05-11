@@ -7,7 +7,6 @@ I am using this codes for working.
 ## Main selenium structrure
 ## Scroll down selenium (completed have to add)
 ## String split, convert
-## select tag in iframe
 ## Ip rolling
 ## solve capcha
 ... working ...
