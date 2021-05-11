@@ -48,7 +48,7 @@ class Driver:
     def get_default(self):  
         while True:
             try:
-                self.driver.switch_to_default_content()
+                self.driver.switch_to.default_content()
                 return
             except:
                 print('default move frame')
