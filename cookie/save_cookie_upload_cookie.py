@@ -10,3 +10,5 @@ def upload_cookie():
         for cookie in self.cookies:
             print('cookie', cookie)
             self.mainDriver.driver.add_cookie(cookie)
+		
+When save cookei have to delay sleep(5)
