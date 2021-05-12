@@ -11,5 +11,6 @@ I am using this codes for working.
 ## solve capcha
 ## session
 ## CSP disabled
+## extension crx add
 ... working ...
 __ tao @ 2021 05 01 __
