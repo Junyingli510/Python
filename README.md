@@ -9,5 +9,6 @@ I am using this codes for working.
 ## String split, convert
 ## Ip rolling
 ## solve capcha
+## session
 ... working ...
 __ tao @ 2021 05 01 __
