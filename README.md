@@ -10,5 +10,6 @@ I am using this codes for working.
 ## Ip rolling
 ## solve capcha
 ## session
+## CSP disabled
 ... working ...
 __ tao @ 2021 05 01 __
