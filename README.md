@@ -15,5 +15,6 @@ I am using this codes for working.
 ## extensuib zip add
 ## login using scrapy
 ## login method 
+## cookie or session expired time, relogin 
 ... working ...
 __ tao @ 2021 05 01 __
