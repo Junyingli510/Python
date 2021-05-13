@@ -14,5 +14,6 @@ I am using this codes for working.
 ## extension crx add
 ## extensuib zip add
 ## login using scrapy
+## login method 
 ... working ...
 __ tao @ 2021 05 01 __
