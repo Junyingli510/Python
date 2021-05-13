@@ -16,5 +16,6 @@ I am using this codes for working.
 ## login using scrapy
 ## login method 
 ## cookie or session expired time, relogin 
+## scrapy period time that send requests
 ... working ...
 __ tao @ 2021 05 01 __
