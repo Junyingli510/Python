@@ -13,5 +13,6 @@ I am using this codes for working.
 ## CSP disabled
 ## extension crx add
 ## extensuib zip add
+## login using scrapy
 ... working ...
 __ tao @ 2021 05 01 __
