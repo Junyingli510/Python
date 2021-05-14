@@ -17,5 +17,6 @@ I am using this codes for working.
 ## login method 
 ## cookie or session expired time, relogin 
 ## scrapy period time that send requests
+## depends on network speed
 ... working ...
 __ tao @ 2021 05 01 __
