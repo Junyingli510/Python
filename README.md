@@ -20,5 +20,6 @@ I am using this codes for working.
 ## depends on network speed
 ## high speed method
 ## ai testing
+## ai sample script
 ... working ...
 __ tao @ 2021 05 01 __
