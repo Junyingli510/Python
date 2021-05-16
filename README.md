@@ -21,5 +21,6 @@ I am using this codes for working.
 ## high speed method
 ## ai testing
 ## ai sample script
+## repeated not find element problem
 ... working ...
 __ tao @ 2021 05 01 __
