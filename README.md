@@ -8,7 +8,7 @@ I am using this codes for working.
 ## Scroll down selenium (completed have to add)
 ## String split, convert
 ## Ip rolling
-## solve capcha
+## solve capcha (using extension)
 ## session
 ## CSP disabled
 ## extension crx add
