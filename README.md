@@ -23,6 +23,6 @@ I am using this codes for working.
 ## ai sample script
 ## repeated not find element problem
 ## AI
-## 
+## when?
 ... working ...
 __ tao @ 2021 05 01 __
