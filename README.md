@@ -15,7 +15,7 @@ I am using this codes for working.
 ## extensuib zip add
 ## login using scrapy
 ## login method 
-## cookie or session expired time, relogin 
+## cookie or session expired time, relogin  sleep(5) must
 ## scrapy period time that send requests
 ## depends on network speed
 ## high speed method
