@@ -9,7 +9,7 @@ I am using this codes for working.
 ## String split, convert
 ## Ip rolling
 ## solve capcha (using extension)
-## session
+## session and cookie compare
 ## CSP disabled
 ## extension crx add
 ## extensuib zip add
