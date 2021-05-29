@@ -3,7 +3,7 @@ This is Python Scraping Structure!
 
 You can find very usful sample codes in this.
 I am using this codes for working.
-## Html select tag select method
+## Html select tag select method (au scraping)
 ## Main selenium structrure
 ## Scroll down selenium (completed have to add)
 ## String split, convert
